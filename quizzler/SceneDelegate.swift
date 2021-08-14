@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  quizzler
 //
-//  Created by Ritik Srivastava on 13/08/21.
+//  Created by Ritik Srivastava on 15/08/21.
 //
 
 import UIKit
